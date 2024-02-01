@@ -12,10 +12,10 @@ public class Question1 {
     // ile
 
 
-
-    //dilnoz
-
     //new thing
+
+// add your code here:
+
 
 
 
