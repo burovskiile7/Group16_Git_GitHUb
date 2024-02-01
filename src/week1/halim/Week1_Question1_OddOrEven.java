@@ -1,6 +1,6 @@
 package week1.halim;
 
-public class Week1_Question1 {
+public class Week1_Question1_OddOrEven {
     /*
     Write  a method which can identifies given number is even or odd
      */
