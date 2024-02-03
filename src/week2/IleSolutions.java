@@ -1,4 +1,4 @@
-package week2.ile;
+package week2;
 
 public class IleSolutions
 {
