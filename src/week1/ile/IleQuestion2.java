@@ -3,16 +3,14 @@ package week1.ile;
 public class IleQuestion2 {
 
     // Divide without / operator
-        public static void main(String[] args) {
-            System.out.println(divide(124, 6));
+       public static void main(String[] args) {
+        int d1 = 1000;
+        int d2 = 14;
+        int result = 0;
+        while (d1 >= d2) {
+            d1 -= d2;
+            result++;
         }
-
-        public static int divide(int dividend, int divisor) {
-            int result = 0;
-            while (dividend >= divisor) {
-                dividend -= divisor;
-                result++;
-            }
-            return result;
-        }
+        System.out.println(result);
     }
+}
