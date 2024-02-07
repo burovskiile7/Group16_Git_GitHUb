@@ -34,11 +34,11 @@ public class week02 {
     }
 
     private static boolean isDivisibleBy5(int number) {
-        return number % 5 == 0;
+        return number % 5 == 0;//it was challenging
     }
 
     public static void main(String[] args) {
-        printNumbers(24);
+        printNumbers(24);//25
     }
 
 
