@@ -7,10 +7,10 @@ public class IleQuestion2 {
             System.out.println(divide(124, 6));
         }
 
-        public static int divide(int d1, int d2) {
+        public static int divide(int dividend, int divisor) {
             int result = 0;
-            while (d1 >= d2) {
-                d1 -= d2;
+            while (dividend >= divisor) {
+                dividend -= divisor;
                 result++;
             }
             return result;
