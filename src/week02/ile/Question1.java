@@ -1,4 +1,4 @@
-package ile;
+package week02.ile;
 
 public class Question1 {
 
