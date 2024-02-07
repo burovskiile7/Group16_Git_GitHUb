@@ -38,7 +38,7 @@ public class task5 {
     }
 
     public static void main(String[] args) {
-        printNumbers(24);
+        printNumbers(24);//goodDay
     }
 
 
