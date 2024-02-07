@@ -1,13 +1,23 @@
 package week1.dusan;
 
 public class Question1 {
-  
-  // add more questions, add your code here:
 
-   // Tell me about yourself ile
+
+    // add more questions
+
+// Tell me about yourself
+
+    //questions
+
+    // ile
+
 
     //new thing
 
-    // add your code here:
+// add your code here:
+
+
+
+
 
 }
