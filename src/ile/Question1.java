@@ -28,7 +28,7 @@ public class Question1 {
         System.out.println("a = " + a); // a = 20
         System.out.println("b = " + b); // b = 10
 
-
+// update the code
 
     }
 
