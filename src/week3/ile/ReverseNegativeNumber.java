@@ -1,5 +1,6 @@
 package week3.ile;
 public class ReverseNegativeNumber {
+    //Reverse negative number
         public static int reverseNegative(int num) {
              if (num < 0) {
                   num = -num;
@@ -16,7 +17,7 @@ public class ReverseNegativeNumber {
         public static void main(String[] args) {
             int negativeNumber = -12345;
              int reversedNumber = reverseNegative(negativeNumber);
-            System.out.println("Original negative number: " + negativeNumber);
-             System.out.println("Reversed negative number: " + reversedNumber);
+            System.out.println("Original Negative Number: " + negativeNumber);
+             System.out.println("Reversed Negative Number: " + reversedNumber);
         }
     }
