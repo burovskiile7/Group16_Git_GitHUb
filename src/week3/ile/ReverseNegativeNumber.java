@@ -18,6 +18,6 @@ public class ReverseNegativeNumber {
             int negativeNumber = -12345;
              int reversedNumber = reverseNegative(negativeNumber);
             System.out.println("Original Negative Number: " + negativeNumber);
-             System.out.println("Reversed Negative Number: " + reversedNumber);
+              System.out.println("Reversed Negative Number: " + reversedNumber);
         }
     }
