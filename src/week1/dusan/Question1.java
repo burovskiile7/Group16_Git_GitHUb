@@ -1,7 +1,13 @@
 package week1.dusan;
 
 public class Question1 {
+  
+  // add more questions, add your code here:
 
+NourWeek2
+
+
+Ile_Week_01
 
     // add more questions
 
@@ -9,15 +15,14 @@ public class Question1 {
 
     //questions
 
-    // ile
+    // week2.week02.ile
 
+
+   // Tell me about yourself ile
+master
 
     //new thing
 
-// add your code here:
-
-
-
-
+    // add your code here:
 
 }
