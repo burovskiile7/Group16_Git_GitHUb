@@ -24,4 +24,4 @@ public class FrequencyOfChar {
             System.out.println(frequencyOfChars("AAABBCDDDE")); // A3B2C1D3E1
         }
     }
-
+// add comment

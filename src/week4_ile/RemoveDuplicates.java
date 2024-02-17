@@ -22,4 +22,5 @@ public class RemoveDuplicates {
                 System.out.println(removeDup("AAABBBCCC")); // ABC
         }
     }
+    // add comment
 
