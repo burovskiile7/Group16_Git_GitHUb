@@ -3,6 +3,7 @@ package week4_ile;
 import java.util.HashMap;
 import java.util.Map;
 public class FrequencyOfChar {
+
         public static String frequencyOfChars(String input) {
             if (input == null || input.isEmpty()) {
                 return "";

@@ -1,6 +1,7 @@
 package week4_ile;
 
 public class RemoveDuplicates {
+
         public static String removeDup(String input) {
             if (input == null || input.isEmpty()) {
                 return "";

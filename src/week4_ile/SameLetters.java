@@ -3,6 +3,7 @@ package week4_ile;
 import java.util.HashMap;
 import java.util.Map;
 public class SameLetters {
+
         public static boolean same(String input1, String input2) {
             if (input1 == null || input2 == null || input1.length() != input2.length()) {
               return false;
