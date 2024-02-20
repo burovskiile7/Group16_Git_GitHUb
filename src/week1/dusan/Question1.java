@@ -4,11 +4,6 @@ public class Question1 {
   
   // add more questions, add your code here:
 
-NourWeek2
-
-
-Ile_Week_01
-
     // add more questions
 
 // Tell me about yourself
@@ -17,9 +12,6 @@ Ile_Week_01
 
     // week2.week02.ile
 
-
-   // Tell me about yourself ile
-master
 
     //new thing
 
