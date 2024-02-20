@@ -2,6 +2,7 @@ package week3.ile;
 
 public class PrimeNumber01 {
 
+//Check if the number is Prime or not
         public static boolean isPrime(int num) {
             if (num <= 1) return false;
 
@@ -15,4 +16,8 @@ public class PrimeNumber01 {
             System.out.println(number + (isPrime(number) ? " is a prime number." : " is not a prime number."));
         }
     }
+Ile_Week_01
+// add comment
+
     // update
+master
