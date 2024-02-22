@@ -1,6 +1,7 @@
-package week1.Nour;
+package week1.dusan;
 
-public class task5 {
+public class ConsecutiveNumbers {
+
     public static void printNumbers(int n) {
 
         for (int i = 1; i <= n; i++) {
@@ -37,9 +38,14 @@ public class task5 {
         return number % 5 == 0;
     }
 
+
+
+
     public static void main(String[] args) {
-        printNumbers(24);//goodDay
+
+        printNumbers(24);
+
+
+
     }
-
-
 }

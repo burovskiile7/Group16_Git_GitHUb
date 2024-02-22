@@ -4,7 +4,6 @@ public class Question1 {
   
   // add more questions, add your code here:
 
-
     // add more questions
 
 // Tell me about yourself
