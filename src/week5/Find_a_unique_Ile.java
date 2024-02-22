@@ -12,17 +12,12 @@ public class Find_a_unique_Ile {
                     uniqueChars.append(currentChar);
                 }
             }
-
             return uniqueChars.toString();
         }
-
         public static void main(String[] args) {
             String input = "ABBBCCCDEF";
             String unique = findUnique(input);
             System.out.println("Unique characters: " + unique);  // The output will be: ADEF
-
-
         }
-
     }
 
