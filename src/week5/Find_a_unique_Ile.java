@@ -20,5 +20,9 @@ public class Find_a_unique_Ile {
             String input = "ABBBCCCDEF";
             String unique = findUnique(input);
             System.out.println("Unique characters: " + unique);  // The output will be: ADEF
+
+
         }
+
     }
+
