@@ -16,8 +16,4 @@ public class PrimeNumber01 {
             System.out.println(number + (isPrime(number) ? " is a prime number." : " is not a prime number."));
         }
     }
-Ile_Week_01
-// add comment
 
-    // update
-master
