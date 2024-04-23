@@ -17,7 +17,3 @@ public class PrimeNumber01 {
         }
     }
 
-// add comment
-
-    // update
-
