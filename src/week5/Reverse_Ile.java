@@ -13,10 +13,9 @@ public class Reverse_Ile {
         }
 
         public static void main(String[] args) {
-            String input = "CYDEO";
+            String input = "ABCDE";
             String reversedString = reverse(input);
-            System.out.println("input = " + input);
-            System.out.println("Reversed string: " + reversedString);  // The Output will be:
+            System.out.println("Reversed string: " + reversedString);  // The Output will be: EDCBA
 
         }
 
